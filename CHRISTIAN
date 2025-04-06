@@ -1,10 +1,10 @@
 
 ﻿SCHOOL NAME, MASCOT, ABBREVIATION, CONFERENCE, PRIMARY HEX COLOR, SECONDARY HEX COLOR, PRESTIGE, HOME STATE, PIPELINE STATES (separated by .);
-Connecticut, Huskies, UCONN, Northeast, 000E2F, E4002B, 84, CT, CT.MA.RI;
-Villanova, Wildcats, NOVA, Northeast, 00205B, 13B5EA, 79, PA, PA.NY.NJ.DE.MD.DC;
+Connecticut, Huskies, UCONN, Northeast, 000E2F, E4002B, 90, CT, CT.MA.RI;
+Villanova, Wildcats, NOVA, Northeast, 00205B, 13B5EA, 82, PA, PA.NY.NJ.DE.MD.DC;
 Rhode Island, Rams, URI, Northeast, 68ABE8, FFFFFF, 56, RI, RI.MA.ME;
 Providence, Friars, PROV, Northeast, 000000, 8A8D8F, 71, RI, RI.MA.ME;
-Seton Hall, Pirates, SETON, Northeast, 004488, A2AAAD, 67, NJ, NJ.NY;
+Seton Hall, Pirates, SETON, Northeast, 004488, A2AAAD, 77, NJ, NJ.NY;
 Hofstra, Pride, HOFS, Northeast, 003591, FDC82F, 37, NY, NY.NJ.PA;
 Georgetown, Hoyas, GTOWN, Northeast, 041E42, 8D817B, 60, DC, DC.MD;
 St. John’s, Red Storm, STJ, Northeast, BA0C2F, A7A8AA, 91, NY, NY.NJ;
@@ -28,7 +28,7 @@ Georgia Tech, Yellow Jackets, GTECH, Atlantic, B3A369, 003057, 63, GA, GA;
 Louisville, Cardinals, LOU, Atlantic, AD0000, 000000, 82, KY, KY.OH;
 Wake Forest, Demon Deacons, WAKE, Atlantic, A67F31, 000000, 70, NC, NC;
 Duke, Blue Devils, DUKE, Atlantic, 0736A4, FFFFFF, 95, NC, NC.SC;
-North Carolina, Tar Heels, UNC, Atlantic, 7BAFD4, FFFFFF, 80, NC, NC.SC;
+North Carolina, Tar Heels, UNC, Atlantic, 7BAFD4, FFFFFF, 70, NC, NC.SC;
 NC State, Wolfpack, NCST, Atlantic, CC0000, 000000, 76, NC, NC;
 VCU, Rams, VCU, Atlantic, FFB300, 000000, 65, VA, VA;
 Davidson, Wildcats, DAV, Atlantic, AC1A2F, 000000, 54, NC, NC;
